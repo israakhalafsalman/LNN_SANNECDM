@@ -1,2 +1,2 @@
 # LNN_SANNECDM
-Love nearest neighbors: sentiment analysis using nearest neighbors and efficient combination of deep model
+An efficient sentiment classification method with the help of neighbors and a hybrid of RNN models
